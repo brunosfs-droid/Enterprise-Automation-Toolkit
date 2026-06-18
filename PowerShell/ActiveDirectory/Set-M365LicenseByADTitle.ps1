@@ -13,7 +13,7 @@
 
 .NOTES
     Autor: Bruno Feitoza
-    GitHub: inserir link do repositório
+    GitHub: https://github.com/brunosfs-droid/Enterprise-Automation-Toolkit/blob/main/PowerShell/ActiveDirectory/Set-M365LicenseByADTitle.ps1
 #>
 
 # ============================================================
